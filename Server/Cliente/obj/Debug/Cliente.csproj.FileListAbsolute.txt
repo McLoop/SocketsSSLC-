@@ -1,0 +1,17 @@
+C:\Users\Usuario\Documents\sistemas distribuidos\sockets\Server\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\sistemas distribuidos\sockets\Server\Cliente\obj\Debug\MainWindow.g.cs
+C:\Users\Usuario\Documents\sistemas distribuidos\sockets\Server\Cliente\obj\Debug\App.g.cs
+C:\Users\Usuario\Documents\sistemas distribuidos\sockets\Server\Cliente\obj\Debug\Cliente_MarkupCompile.cache
+C:\Users\Usuario\Documents\sistemas distribuidos\sockets\Server\Cliente\obj\Debug\Cliente_MarkupCompile.lref
+C:\Users\Usuario\Documents\sistemas distribuidos\sockets\Server\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Usuario\Documents\sistemas distribuidos\sockets\Server\Cliente\bin\Debug\Cliente.exe
+C:\Users\Usuario\Documents\sistemas distribuidos\sockets\Server\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Usuario\Documents\sistemas distribuidos\sockets\Server\Cliente\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Documents\sistemas distribuidos\sockets\Server\Cliente\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\Documents\sistemas distribuidos\sockets\Server\Cliente\obj\Debug\MainWindow.baml
+C:\Users\Usuario\Documents\sistemas distribuidos\sockets\Server\Cliente\obj\Debug\Cliente.g.resources
+C:\Users\Usuario\Documents\sistemas distribuidos\sockets\Server\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\Usuario\Documents\sistemas distribuidos\sockets\Server\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\sistemas distribuidos\sockets\Server\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+C:\Users\Usuario\Documents\sistemas distribuidos\sockets\Server\Cliente\obj\Debug\Cliente.exe
+C:\Users\Usuario\Documents\sistemas distribuidos\sockets\Server\Cliente\obj\Debug\Cliente.pdb
